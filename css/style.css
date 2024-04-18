@@ -355,7 +355,7 @@ footer {
 
 /* Media Responsive */
 
-@media (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .header-container {
     max-width: 100%;
     justify-content: space-between;
@@ -471,7 +471,7 @@ footer {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .header-container {
     max-width: 100%;
     justify-content: space-between;
