@@ -355,7 +355,7 @@ footer {
 
 /* Media Responsive */
 
-@media (min-width: 375px) {
+@media (min-width: 320px) {
   .header-container {
     max-width: 100%;
     justify-content: space-between;
