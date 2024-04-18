@@ -533,6 +533,9 @@ footer {
     margin-bottom: 20px;
   }
 
+  .formacao-container-inner {
+    flex-direction: row;
+  }
   .formacao-card h4 {
     background-color: #fff;
   }
